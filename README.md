@@ -18,7 +18,7 @@
 - ``Buscar qualquer paciente na tabela ou na biblioteca``
 
 ### ✨ Imagem do Projeto
-![Imagem__Projeto](https://i.pinimg.com/564x/a3/b9/34/a3b934daf3aac19c1c3709501a2b34dd.jpg)
+![Imagem__Projeto](https://live.staticflickr.com/65535/52245100557_796f4606dc_b.jpg)
 
 ## 🏷️ Tecnologias 
 
