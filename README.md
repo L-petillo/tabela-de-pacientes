@@ -1,6 +1,6 @@
 # tabela-de-pacientes
 
-| 🪧 Vitrine.Dev |     |
+| 🪧 Vitrine.Dev |    L_petillo |
 | -------------  | --- |
 | ✨ Nome        | Tabela-de-Pacientes
 | 🏷️ Tecnologias | JavaScript, HTML, CSS
